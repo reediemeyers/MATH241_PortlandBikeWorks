@@ -1,3 +1,10 @@
+library(RJSONIO)
+library(dplyr)
+library(ggplot2)
+library(rgdal)
+library(ggmap)
+
+
 #basemap
 PDX.shapefile <- readOGR(dsn=".", layer="tract2010", verbose=FALSE) %>%
   spTransform(CRS("+proj=longlat +ellps=WGS84")) %>%
