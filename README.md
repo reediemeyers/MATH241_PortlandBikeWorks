@@ -1,5 +1,10 @@
 # Portland Bike Works
-Final Project for Albert Kim's upper division data analysis class at Reed College. Analyses data from the open source Portland Ride™ app (enabled by Reed Switchboard) and different aesthetic approaches to this information. The RIDE data was juxtaposed with city data from the Civic Apps website.
+Final Project for Albert Kim's upper division data analysis class at Reed College. Analyses data from the open source Portland Ride™ app (enabled by Reed Switchboard) and different aesthetic approaches to this information. The RIDE data was juxtaposed with city data from the Civic Apps website. 
+
+
+In short, this was a preliminary exploration of the RIDE data in the context of the CivicApps data. RIDE's rating system needs some adjustment - at the moment, it is difficult to parse apart what *parts* of a ride went well in relation to specific city infrastructure qualities like road type or accident frequency. 
+
+#Analysis
 
 ## Smartphone Apps and Ride Evaluation
 The prevalence of smartphones in the United States has made for an exciting era of crowd-sourced data. From Yelp to Waze, users share feedback in real time to clarify saturated markets and enhance the consumer or citizen experience. Fieldwork in the geosciences have welcomed new technologies that synthesize multiple types of data by geolocation. Mobile database applications increase data integrity by allowing users to enter information into a structured database during initial collection. In some cases, data can even be synced to a central server when the user has an internet or cellular connection. Mobile applications have been developed for anything from monitoring air pollution from user photos to ribotyping bacteria [Showstack, 2010; Guertler and Grando, 2013]. At the same time, the access app developers now have to intimate personal data has sparked debate around personal security in the digital era. Smartphone users are, in this context, most compelled to submit personal data when that data might consequently improve their own experience.
